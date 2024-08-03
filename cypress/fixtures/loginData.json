@@ -1,0 +1,12 @@
+{
+  "validCredentials": {
+    "email": "juuan214rebatta@gmail.com",
+    "password": "Test.2024",
+    "successMessage": "Logged in as"
+  },
+  "invalidCredentials": {
+    "email": "test@test.com",
+    "password": "Test.123",
+    "errorMessage": "Your email or password is incorrect!"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "reto_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.1",
+    "cypress": "^13.13.2"
+  }
+}
